@@ -36,16 +36,16 @@ $$
 Where:
 
 $$
-- \( A = [a_1, a_2, \dots, a_n] \)
-- \( B = [b_1, b_2, \dots, b_n] \)
+- A = [a_1, a_2, \dots, a_n] 
+- B = [b_1, b_2, \dots, b_n] 
 $$
 
 > [!NOTE]
 > We can multiply only two vectors at a time.
 
 
-## Code Example
-1. Without numpy ->
+## Code Example(Python)
+1. Without numpy[^2] ->
 
 ```
 def dot_product(vector_a, vector_b):
@@ -84,7 +84,7 @@ print(np.dot(a, b))
 
 ## Comparison Table
 
-| using NUMpy | wihtout numpy |
+| using numpy | wihtout numpy |
 | ----------- | ------------- |
 | The sum of the products of related items in two vectors or matrices is computed using the mathematical operation known as the dot product in Python. Both using and without the numpy module, Python may implement the dot product.| Without Numpy we build two Python lists, a and b, and then use a for loop and the sum() method to compute their dot product.|
 
@@ -106,3 +106,4 @@ print(np.dot(a, b))
 - [x] Comparison Table
 
 [^1]: We also have cross product
+[^2]: numpy is a package available in python
