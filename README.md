@@ -34,8 +34,10 @@ $$
 $$
 
 Where:
+$$
 - \( A = [a_1, a_2, \dots, a_n] \)
 - \( B = [b_1, b_2, \dots, b_n] \)
+$$
 
 > [!NOTE]
 > We can multiply only two vectors at a time.
