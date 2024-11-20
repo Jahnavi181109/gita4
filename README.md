@@ -84,6 +84,7 @@ print(np.dot(a, b))
 
 ![](https://www.geeksforgeeks.org/wp-content/ql-cache/quicklatex.com-a98a9faf3d30c6ccf595025c7835288f_l3.svg)
 
+These images are taken from [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-calculate-dot-product-of-two-vectors-in-python/)
 
 
 ## Comparison Table
