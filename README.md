@@ -38,8 +38,10 @@ Where:
 - $A = [a_1, a_2, \dots, a_n]$
 - $B = [b_1, b_2, \dots, b_n]$
 
+
 > [!NOTE]
 > We can multiply only two vectors at a time.
+
 
 
 ## Code Example(Python)
@@ -66,6 +68,8 @@ b = 7 + 6j
 print(np.dot(a, b))
 ```
 
+
+
 ## Diagram
 
 > Below is a diagram illustrating the process of calculating the dot product:
@@ -79,6 +83,8 @@ print(np.dot(a, b))
 > Example
 
 ![](https://www.geeksforgeeks.org/wp-content/ql-cache/quicklatex.com-a98a9faf3d30c6ccf595025c7835288f_l3.svg)
+
+
 
 ## Comparison Table
 
