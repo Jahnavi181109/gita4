@@ -34,6 +34,7 @@ $$
 $$
 
 Where:
+
 $$
 - \( A = [a_1, a_2, \dots, a_n] \)
 - \( B = [b_1, b_2, \dots, b_n] \)
@@ -72,10 +73,13 @@ print(np.dot(a, b))
 > Below is a diagram illustrating the process of calculating the dot product:
 
 ![](https://www.geeksforgeeks.org/wp-content/ql-cache/quicklatex.com-09b8cd354f24a03b37937193ada781b5_l3.svg)
+
 ![](https://www.geeksforgeeks.org/wp-content/ql-cache/quicklatex.com-744b63e8b12f771a424e7b392e7823ec_l3.svg)
+
 ![](https://www.geeksforgeeks.org/wp-content/ql-cache/quicklatex.com-f17cd27814e5e0debb8fc6dc5a034212_l3.svg)
 
 > Example
+
 ![](https://www.geeksforgeeks.org/wp-content/ql-cache/quicklatex.com-a98a9faf3d30c6ccf595025c7835288f_l3.svg)
 
 ## Comparison Table
